@@ -49,9 +49,7 @@ A API sobe em `http://localhost:5046` (a porta pode variar — confira no termin
 
 ## Calculadora web
 
-Também criei uma interface web responsiva (PC e celular) para usar os cálculos sem precisar chamar a API diretamente:
-
-🔗 [Calculadora de usinagem](https://claude.ai/artifact/39uPeCXUAjwmdEd84qCPoE)
+Também criei uma interface web responsiva (PC e celular) para usar os cálculos sem precisar chamar a API diretamente. (Link público em breve.)
 
 ## Próximos passos
 
